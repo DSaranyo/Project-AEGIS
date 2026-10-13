@@ -48,7 +48,7 @@ Clone the repository and install the required astrodynamics dependencies:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR-USERNAME/Project-AEGIS.git](https://github.com/YOUR-USERNAME/Project-AEGIS.git)
+git clone [https://github.com/Dsaranyo/Project-AEGIS.git](https://github.com/DSaranyo/Project-AEGIS.git)
 cd Project-AEGIS
 
 # Install dependencies
